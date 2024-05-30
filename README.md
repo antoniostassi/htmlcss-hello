@@ -2,7 +2,7 @@
 Boolean Exercise n°1
 
 <strong> Hello HTML </strong> <br>
-Nome repo: <strong>htmlcss-hello</strong>
+Nome repo: <strong>htmlcss-hello</strong><br>
 Esercizio<br>
 Creare il repo su GitHub.<br>
 Clonare il repo con VS Code.<br>
